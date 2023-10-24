@@ -79,16 +79,14 @@ To ensure the success of your web scraping operations in the face of site change
 
 ## Contributing
 
-Contributions are welcome! If you would like to contribute to the project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+Will be added later
 
 ## License
 
-This project is licensed under the [Your License] License - see the [LICENSE.md](LICENSE.md) file for details.
+Will be added later
 
 ## Acknowledgments
 
-- Acknowledge contributors, if any.
-- Mention any external libraries or tools used in the project.
-- Express gratitude to any open-source projects that inspired your work.
+Will be added later
 
 Feel free to customize this `README.md` to provide more specific details about your web scraping project and its use case.
