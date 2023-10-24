@@ -64,13 +64,12 @@ Follow these steps to install the project:
 ## Usage
 
 How to use it is mentioned in the notion link: 
-    ``shell
+    
     https://www.notion.so/strugend/Clutch-co-a38dc00edea14e9b8e9e2dd0f24d7aa0
-    ```
 
 ## Result
 
-![Result](img1.png)
+![Result](./img1.png)
 
 ## Handling Site Changes and Operation Success
 
