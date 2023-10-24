@@ -1,4 +1,3 @@
-```markdown
 # Web Scraper
 
 A web scraping project to extract data from a specific website.
@@ -59,7 +58,7 @@ Follow these steps to install the project:
 
 3. Step 3: Install dependencies
    ```shell
-   npm install
+   node webScrapping.js
    ```
 
 ## Usage
@@ -91,6 +90,5 @@ This project is licensed under the [Your License] License - see the [LICENSE.md]
 - Acknowledge contributors, if any.
 - Mention any external libraries or tools used in the project.
 - Express gratitude to any open-source projects that inspired your work.
-```
 
 Feel free to customize this `README.md` to provide more specific details about your web scraping project and its use case.
