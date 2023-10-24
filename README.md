@@ -69,7 +69,7 @@ How to use it is mentioned in the notion link:
 
 ## Result
 
-![Result](./img1.png)
+![Example Image](/img1.png)
 
 ## Handling Site Changes and Operation Success
 
