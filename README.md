@@ -19,7 +19,7 @@ A web scraping project to extract data from a specific website.
 
 ## Description
 
-This project is a web scraper designed to extract data from a specific website. It is built to handle dynamic web pages, adapt to site changes, and successfully scrape the desired information.
+This project is a web scraper designed to extract data from a Clutch.co. It is built to handle dynamic web pages, adapt to site changes, and successfully scrape the desired information.
 
 ## Features
 
@@ -39,7 +39,7 @@ These instructions will help you get a copy of the project up and running on you
 
 Before you start, ensure you have met the following requirements:
 
-- Prerequisite 1 (e.g., Node.js, Python, etc.)
+- Prerequisite 1 (e.g., Javascript, etc.)
 - Prerequisite 2 (e.g., Web browser, scraping library, etc.)
 
 ### Installation
@@ -48,7 +48,7 @@ Follow these steps to install the project:
 
 1. Step 1: Clone the repository
    ```shell
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/your-username/webScrapping.git
    ```
 
 2. Step 2: Navigate to the project folder
@@ -63,7 +63,14 @@ Follow these steps to install the project:
 
 ## Usage
 
-Explain how to use the web scraper. Provide code examples or usage scenarios. Detailed explanations about how to set up the target website for scraping may also be included.
+How to use it is mentioned in the notion link: 
+    ``shell
+    https://www.notion.so/strugend/Clutch-co-a38dc00edea14e9b8e9e2dd0f24d7aa0
+    ```
+
+## Result
+
+![Result](img1.png)
 
 ## Handling Site Changes and Operation Success
 
